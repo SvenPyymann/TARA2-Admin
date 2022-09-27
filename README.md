@@ -1,6 +1,6 @@
 <img src="doc/img/eu_regional_development_fund_horizontal.jpg" width="350" height="200">
 
-# TARA/GOVSSO admin application
+# TARA/GOVSSO admin application -------
 
 TARA/GOVSSO admin project's main goal is to provide a web application that allows TARA/GOVSSO service managers to:
 * manage institutions that want to register OIDC clients in TARA/GOVSSO
